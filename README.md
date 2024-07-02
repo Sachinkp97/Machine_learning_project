@@ -1,4 +1,4 @@
-# Machine_learning_project to DO something
+# Machine_learning_project
 
 Application url:
 [HousingPredictor](https://ml-regression-app.herokuapp.com/)
@@ -67,9 +67,10 @@ git remote -v
 ```
 
 To setup CI/CD pipeline in heroku we need 3 information
-1. HEROKU_EMAIL = anishyadav7045075175@gmail.com
-2. HEROKU_API_KEY = <>
-3. HEROKU_APP_NAME = ml-regression-app
+1. HEROKU_EMAIL = sachinkp97@gmail.com
+2. @gmail.com
+3. HEROKU_API_KEY = <>
+4. HEROKU_APP_NAME = ml-regression-app
 
 BUILD DOCKER IMAGE
 ```
